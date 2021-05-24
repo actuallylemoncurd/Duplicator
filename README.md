@@ -12,3 +12,6 @@ General build idea's (Rough idea)
 - Direct Drive
 - Cross XY Gantry (Ultimaker like)
 - Raspberry Pi
+- Expandable design, but design will be made for 250x250x250mm
+- 24v system
+- Must be quiet
