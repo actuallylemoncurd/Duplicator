@@ -1,4 +1,4 @@
-# dkiivDuplicator
+# Duplicator
 openSource 3D Printer
 
 General build idea's (Rough idea)
